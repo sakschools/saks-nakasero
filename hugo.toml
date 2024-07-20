@@ -1,7 +1,7 @@
 baseURL = 'https://nakasero.sirapollokaggwaschools.co.ug/'
 languageCode = 'en-us'
 title = 'Sir Apollo Kaggwa Primary School - Nakasero'
-theme = "C:\\Users\\timot\\SAKS_web\\sirapollokaggwaschools\\themes\\saks-theme"
+theme = "saks-theme"
 
 
 [params]
