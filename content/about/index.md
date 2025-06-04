@@ -5,9 +5,9 @@ type: about
    ![About Us Image](/img/about1.webp)
 # School Profile
 
-Fairways nursery and primary school-Kireka is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level. The school has two sections i.e pre-school and Primary school.
+Sir Apollo Kaggwa Schools - Nakasero is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level. The school has two sections i.e pre-school and Primary school.
 
-At Fairways Primary School, Kireka, we are always learning through a holistic curriculum where individual talents are celebrated and nurtured. Working together as one team, in a caring, yet stimulating environment, we ensure that as an organization, excellence is the expectation. Our network of strong pastoral support fulfills the ambitions of students so that graduates go on to make a positive difference to the world in which they live.
+At Sir Apollo Kaggwa Schools - Nakasero, we are always learning through a holistic curriculum where individual talents are celebrated and nurtured. Working together as one team, in a caring, yet stimulating environment, we ensure that as an organization, excellence is the expectation. Our network of strong pastoral support fulfills the ambitions of students so that graduates go on to make a positive difference to the world in which they live.
 
 ## School Motto
 Our School Motto is: “Education with a Purpose”
@@ -19,7 +19,7 @@ The school mission statement is “to provide a stimulating and credible learnin
 1. **CARE:** We respect the needs of our customers and stakeholders. We will ensure they feel listened to and cared for.
 2. **ACADEMIC EXCELLENCE:** We dream big setting ambitious goals, delivering the highest quality and aiming to be the best at what we do.
 3. **TEAMWORK:** We believe in teamwork. Our team works with the bigger picture in mind. We put the team’s needs ahead of our own.
-4. **EQUALITY:** Fairways Primary School values all members of the school community equally; and encourages other school stakeholders, including pupils to do the same. We promote and practice tolerance, respect and patience in the school community.
+4. **EQUALITY:** Sir Apollo Kaggwa Schools - Nakasero values all members of the school community equally; and encourages other school stakeholders, including pupils to do the same. We promote and practice tolerance, respect and patience in the school community.
 5. **CONTINUOUS LEARNING:** Our open-minded curiosity fuels our passion for learning. We ask questions and listen so that we continuously learn and improve.
 
 The school has maintained its remarkable academic excellence and pupil’s welfare and this is attributed to the committed and caring Directors, Administrators, parents as well as the committed staff. We boast of a number of school facilities that facilitate a conducive learning environment and these include:

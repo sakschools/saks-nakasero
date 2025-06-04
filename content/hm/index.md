@@ -2,13 +2,18 @@
 title: "HEAD TEACHER'S MESSAGE"
 ---
 
-## Mr Nyumba Ronald – Head Teacher
-Welcome to fairways primary school- Kireka, a school that offers holistic and quality primary education in Uganda. Our children excel in National exams with only first grades and we are proud of this.
+## Mr. Buyondo Francis – Head Teacher
 
-Not only that but also our pupils are equipped with skills in swimming, ball games, athletics, home economics, debate, and computer knowledge.
-The school is multi-denominational because all religions are given an hour per week to strengthen their faith. We go-ahead to hold confirmation and holy communion functions at school yearly
+Welcome to Sir Apollo Kaggwa Primary School Nakasero, a distinguished institution committed to providing holistic and high-quality primary education in Uganda. Guided by our inspiring motto, "We Persist to Excel," we are dedicated to nurturing learners who not only thrive academically but also grow into confident, disciplined, and responsible citizens.
 
-We shall be proud if you entrusted us with your child so that he/she can benefit from an enriched curriculum
+Our pupils consistently achieve outstanding results, with an excellent track record of First Grades in the National Examinations. We take immense pride in this academic excellence, which reflects our commitment to teaching with passion, dedication, and integrity.
 
-###### NYUMBA Ronald
-###### HEADTEACHER
+At Sir Apollo Kaggwa Primary School Nakasero, education goes beyond the classroom. We empower our pupils with vital life skills through a rich blend of co-curricular activities including swimming, ball games, athletics, home economics, debate, and computer studies. These programs are carefully designed to develop each child’s talents, creativity, and physical well-being.
+
+We are a proudly multi-denominational school, embracing learners from all faiths. Each religion is given a dedicated hour every week to strengthen spiritual values, and we joyfully host annual Confirmation and Holy Communion ceremonies, fostering moral growth and unity in diversity.
+
+We would be honoured to partner with you in shaping your child’s future. Entrust us with your child's education, and together, we will nurture excellence and unlock their full potential.
+
+###### Warm regards,
+###### Buyondo Francis
+###### Head Teacher
