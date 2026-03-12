@@ -2,7 +2,7 @@
 title: Open Campaigns Successfully Conducted Ahead of This Year’s Elections at
   Sir Apollo Kaggwa Primary School Nakasero
 date: 2026-03-12T21:38:00+03:00
-thumbnail: /img/1001516995.jpg
+thumbnail: /img/1001516790.jpg
 ---
 The school community at Sir Apollo Kaggwa Primary School Nakasero came alive today as learners enthusiastically participated in the open campaigns ahead of the School General Elections, scheduled for tomorrow, Friday, 13th March 2026. The event provided a vibrant platform for aspiring young leaders to present their ideas, share their visions, and engage their peers in meaningful dialogue about leadership and service.
 
