@@ -1,0 +1,17 @@
+{
+  "theme": "saks-theme",
+  "logo": "/img/logo.png",
+  "mainSchool": false,
+  "school": {
+    "motto": "Education with a Purpose",
+    "mission": "To be a leading school in the provision of quality education",
+    "vision": "The vision of Sir Apollo Kaggwa Primary School, Nakasero is to produce devoted learners in academics, moral education and life skills, leadership skills, creativity, and innovation, honest and humble, self-driven with a positive attitude towards quality work."
+  },
+  "address": "",
+  "title": "Sir Apollo Kaggwa Primary School - Nakasero",
+  "locale": "en-us",
+  "defaultDescription": "Sir Apollo Kaggwa Primary School-Nakasero is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level.",
+  "email": "info@sirapollokaggwaschools.co.ug",
+  "baseURL": "https://nakasero.sirapollokaggwaschools.co.ug/",
+  "google_map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.756443743895!2d32.57600457369951!3d0.31909856402437176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbb0d21e64521%3A0x4dd2bafa824c3198!2sSir%20Apollo%20Kagwa%20Primary%20School%20Nakasero!5e0!3m2!1sen!2sug!4v1711284625971!5m2!1sen!2sug"
+}
