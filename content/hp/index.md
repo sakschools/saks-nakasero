@@ -1,10 +1,9 @@
 ---
-title: "HEAD PREFECT’S MESSAGE"
+title: HEAD PREFECT’S MESSAGE
 ---
-
 # HEAD PREFECT’S MESSAGE
- 
-IAM SUUBI Martin the current president of **Fairways Primary school –Kireka**. I am deputized by Hon Ageno Abigail. We are 22 members as the prefectural body in Fairways.
+
+IAM the current president of Sir Apollo Kaggwa Primary School Nakasero . I am deputized by Hon Ageno Abigail. We are 22 members as the prefectural body at Nakasero .
 
 **We monitor and check on the following issues**;
 
@@ -21,5 +20,6 @@ Our school also looks at enabling pupils’ explore their talents through the co
 Allow me sum up by encouraging you all to join Fairways Primary School-kireka where your child is guaranteed a first grade.
 
 I remain
- - **SUUBU MARTIN**
- - **CURRENT PRESIDENT**
+
+* **SUUBU MARTIN**
+* **CURRENT PRESIDENT**
